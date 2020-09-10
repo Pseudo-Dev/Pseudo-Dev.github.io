@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name":"Barunes Padhy",
+    "description":"Developer | Innovation Enthusiast",
+    "image":"profilepic.jpg",
+    "bio":"I am a Full Stack Engineer specializing in ReactJS and Python to develop my webpages. I am also highly skilled at algorithms and their implementation for reaching an optimal solution.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "barunes09@gmail.com",
+    "phone": "+91-9668718529",
+    "github":"https://github.com/Pseudo-Dev",
+    "address":{
+      "street":"",
+      "city":"Bhubaneswar",
+      "state":"Odisha",
+      "zip": "India"
+    },
+    "website": "pseudo-dev.github.io",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/barunes.padhy.5",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/barunes09",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/barunes-padhy-8b2996173/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/pseudodev/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Pseudo-Dev",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My Choice of Weapons",
+    "education":[
+      {
+        "school":"CHRIST (Deemed to be University)",
+        "degree":"Bachelors in Computer Applications (BCA)",
+        "graduated":"June 2017 - June 2020",
+        "description":"GPA: 3.7/4.0 | Percentage: 77%"
+      },
+      {
+        "school":"SAI International School",
+        "degree":"12th Grade",
+        "graduated":"March 2015 - March 2016",
+        "description":"CGPA: 8.0/10.0 | Percentage: 74%"
+      }
+    ],
+    "work":[
+      {
+        "company":"Malchas Management, Dubai",
+        "title":"FullStack Developer",
+        "years":"June 2020 - Present",
+        "description":"Responsible for bulding building and deploying a website for an NGO named \"Wings of Change\". In addition to the website, I was also responsible to setting up an education platform (Kolibri) which will be used for teaching the students at the school.",
+        "workTitle":"Wings of Change",
+        "category":"A non-profit organisation in Madagascar.",
+        "image":"wingsofchange.jpg",
+        "url":"https://www.wingsofchange.co"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Django",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"75%"
+      },
+      {
+        "name":"Qt",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "portfolio": [
+      {
+        "title":"PseudoForms: An open-source data colecting platform (Work in Progress)",
+        "years":"October 2019 - Present",
+        "description":"Creating an open source data collecting platform which can be deployed on any server easily and used to collect data. This project is aimed mostly for companies/organisations/research professionals who want to hav their own data collecting platform instead of using public services like Google Forms or Survey Monkey. The platform features a unique feature of template form creation unlike any other platform seen before which can aid in much faster form creation",
+        "workTitle":"PseudoForms",
+        "category":"An open-source data colecting platform.",
+        "image":"pseudoforms.jpg",
+        "url":"https://github.com/Pseudo-Dev/PseudoForms"
+      },
+      {
+        "title":"PseudoPad: An open-source IDE for C++, by C++",
+        "years":"January 2019 - July 2019",
+        "description":"Created an IDE using Qt and C++ which can be used to compile C++ files. It also features multiple tab support, line numbers and syntax highlighting.",
+        "workTitle":"PseudoPad",
+        "category":"An open-source IDE for C++ by C++",
+        "image":"pseudopad.jpg",
+        "url":"https://github.com/Pseudo-Dev/PseudoPad"
+      },
+      {
+        "title":"Sudo-Assemble: Image recognition project",
+        "years":"January 2019 - April 2019",
+        "description":"Integrated a machine learning algorithm into a website which can be used to recognise various computer hardware peripherals. A guide on how I achieved this using Tensorflow GPU has been documented on the github page of the project.",
+        "workTitle":"Sudo-Assemble",
+        "category":"",
+        "image":"sudoassemble.jpg",
+        "url":"https://github.com/Pseudo-Dev/tensorflowGPU-ObjectRecognition"
+      }
+    ]
+  }
+}
